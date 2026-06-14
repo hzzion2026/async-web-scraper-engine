@@ -39,3 +39,6 @@ A high-performance async web scraping engine built with Python, designed for ext
 pip install -r requirements.txt
 python app.py https://example.com --fmt json --output data.json
 ```
+
+---
+*Portfolio & case studies: [hzzion2026.github.io/portfolio](https://hzzion2026.github.io/portfolio/)*
